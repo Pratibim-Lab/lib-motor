@@ -1,0 +1,17 @@
+{
+  "id": "Motor/Motor_Servo_Futaba_J:Motor_Servo_Futaba_J",
+  "name": "Motor_Servo_Futaba_J",
+  "library": "Motor",
+  "file": "Motor.kicad_symdir/Motor_Servo_Futaba_J.kicad_sym",
+  "description": "Servo Motor (Futuba J-connector)",
+  "datasheet": "http://forums.parallax.com/uploads/attachments/46831/74481.png",
+  "keywords": "Servo Motor",
+  "footprint": "",
+  "extends": "Motor_Servo",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-motor@master/parts/Motor_Servo_Futaba_J/",
+  "part_path": "parts/Motor_Servo_Futaba_J",
+  "symbol_file": "parts/Motor_Servo_Futaba_J/Motor_Servo_Futaba_J.kicad_sym",
+  "source_library": "Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:10:32.257Z"
+}

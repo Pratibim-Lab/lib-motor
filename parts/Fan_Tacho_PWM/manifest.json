@@ -1,0 +1,17 @@
+{
+  "id": "Motor/Fan_Tacho_PWM:Fan_Tacho_PWM",
+  "name": "Fan_Tacho_PWM",
+  "library": "Motor",
+  "file": "Motor.kicad_symdir/Fan_Tacho_PWM.kicad_sym",
+  "description": "Fan, tacho output, PWM input, 4-pin connector",
+  "datasheet": "http://www.formfactors.org/developer%5Cspecs%5Crev1_2_public.pdf",
+  "keywords": "Fan Motor tacho PWM",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-motor@master/parts/Fan_Tacho_PWM/",
+  "part_path": "parts/Fan_Tacho_PWM",
+  "symbol_file": "parts/Fan_Tacho_PWM/Fan_Tacho_PWM.kicad_sym",
+  "source_library": "Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:10:32.224Z"
+}

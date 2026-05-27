@@ -1,0 +1,17 @@
+{
+  "id": "Motor/Fan_PC_Chassis:Fan_PC_Chassis",
+  "name": "Fan_PC_Chassis",
+  "library": "Motor",
+  "file": "Motor.kicad_symdir/Fan_PC_Chassis.kicad_sym",
+  "description": "PC chassis fan, tacho output, 3-pin connector",
+  "datasheet": "http://www.hardwarecanucks.com/forum/attachments/new-builds/16287d1330775095-help-chassis-power-fan-connectors-motherboard-asus_p8z68.jpg",
+  "keywords": "Fan Motor tacho",
+  "footprint": "",
+  "extends": "Fan_Tacho",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-motor@master/parts/Fan_PC_Chassis/",
+  "part_path": "parts/Fan_PC_Chassis",
+  "symbol_file": "parts/Fan_PC_Chassis/Fan_PC_Chassis.kicad_sym",
+  "source_library": "Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:10:32.218Z"
+}

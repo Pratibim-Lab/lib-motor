@@ -1,0 +1,17 @@
+{
+  "id": "Motor/Motor_DC:Motor_DC",
+  "name": "Motor_DC",
+  "library": "Motor",
+  "file": "Motor.kicad_symdir/Motor_DC.kicad_sym",
+  "description": "DC Motor",
+  "datasheet": "",
+  "keywords": "DC Motor",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-motor@master/parts/Motor_DC/",
+  "part_path": "parts/Motor_DC",
+  "symbol_file": "parts/Motor_DC/Motor_DC.kicad_sym",
+  "source_library": "Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:10:32.249Z"
+}

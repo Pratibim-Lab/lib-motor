@@ -1,0 +1,17 @@
+{
+  "id": "Motor/Fan_ISO-14617:Fan_ISO-14617",
+  "name": "Fan_ISO-14617",
+  "library": "Motor",
+  "file": "Motor.kicad_symdir/Fan_ISO-14617.kicad_sym",
+  "description": "Fan 2302 according to ISO 14617",
+  "datasheet": "",
+  "keywords": "fan motor iso 14617",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-motor@master/parts/Fan_ISO-14617/",
+  "part_path": "parts/Fan_ISO-14617",
+  "symbol_file": "parts/Fan_ISO-14617/Fan_ISO-14617.kicad_sym",
+  "source_library": "Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:10:32.213Z"
+}

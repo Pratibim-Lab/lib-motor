@@ -1,0 +1,17 @@
+{
+  "id": "Motor/Motor_AC:Motor_AC",
+  "name": "Motor_AC",
+  "library": "Motor",
+  "file": "Motor.kicad_symdir/Motor_AC.kicad_sym",
+  "description": "AC Motor",
+  "datasheet": "",
+  "keywords": "AC Motor",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-motor@master/parts/Motor_AC/",
+  "part_path": "parts/Motor_AC",
+  "symbol_file": "parts/Motor_AC/Motor_AC.kicad_sym",
+  "source_library": "Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:10:32.241Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Motor/Fan_IEC-60617:Fan_IEC-60617",
+  "name": "Fan_IEC-60617",
+  "library": "Motor",
+  "file": "Motor.kicad_symdir/Fan_IEC-60617.kicad_sym",
+  "description": "Fan according to IEC 60617",
+  "datasheet": "",
+  "keywords": "fan motor iec 60617",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-motor@master/parts/Fan_IEC-60617/",
+  "part_path": "parts/Fan_IEC-60617",
+  "symbol_file": "parts/Fan_IEC-60617/Fan_IEC-60617.kicad_sym",
+  "source_library": "Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:10:32.206Z"
+}
